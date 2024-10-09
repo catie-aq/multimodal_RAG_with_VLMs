@@ -1,3 +1,4 @@
+# python 3.11.0
 # conda activate essais_idefics
 # launch command : CUDA_VISIBLE_DEVICES=1 python idefics_FT.py
 # pour choisir le GPU
