@@ -1,5 +1,6 @@
 DONE :
-- idefics3 finetuné en FR avec son script (sur une A100 : QLoRA + FA2) sur le dataset doc VQA_catie. Poids sur HF.
+- idefics3 finetuné en FR avec son script (sur une A100 : QLoRA 8 bits + FA2) sur le dataset doc VQA_catie. Poids sur HF.
+- colpali finetuné en FR avec son script (sur une A100 : QLoRA + ) sur le dataset doc VQA_catie. Poids à venir sur HF.
 
 TO DO (dans l'ordre) :
 - faire un vrai dataset d'évaluation avec des triplets (page de pdf, question, réponse)
