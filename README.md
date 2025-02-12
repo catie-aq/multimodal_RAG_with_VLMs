@@ -5,6 +5,7 @@ Les datasets en français utilisés on été rassemblés et mis à disposition s
 
 - idefics3 finetuné en FR avec son script  
 - colpali finetuné en FR avec son script 
+
 Les poids des modèles sont ouverts sur hugging face :
 https://huggingface.co/CATIE-AQ/idefics_fr_FT et https://huggingface.co/CATIE-AQ/finetune_colpali_pierre-4bit
 
